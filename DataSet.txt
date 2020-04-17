@@ -1,0 +1,9 @@
+For Brooklyn
+We will us the data on  https://cocl.us/new_york_dataset
+It is a json file that will be converted to a Pandas DataFrame 
+This with the help of Data On Foursquare for top venues will help us Cluster our data
+For North York
+We will get the posatl codes from 'https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M'
+Then we get the co-ordinates from the csv file 
+We link the abovee two datas then form a pandas Data Frame
+Then with the help of Foursquare data we will cluster our data based on conditions
